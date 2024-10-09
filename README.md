@@ -110,7 +110,6 @@ The dataset consists of multiple data files, including:
    pip install -r requirements.txt
 
 ### Run the main analysis file to generate insights and outputs:
-    ```bash
     python main_analysis.py
 The predictions for the test file will be saved as test.csv in the project directory.
 Final Output
