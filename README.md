@@ -110,7 +110,7 @@ The dataset consists of multiple data files, including:
    pip install -r requirements.txt
 
 ### Run the main analysis file to generate insights and outputs:
-    python main_analysis.py
+    jupyter notebook skyhack.ipynb
 The predictions for the test file will be saved as test.csv in the project directory.
 Final Output
 The final deliverable includes a detailed report and a test.csv file with the predicted primary call reasons for each call in the test dataset.
